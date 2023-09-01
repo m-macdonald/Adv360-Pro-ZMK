@@ -35,11 +35,11 @@
         "&none", "&kp F10", "&kp F1", "&kp F2", "&kp F3",  "&none",                               "&none",                      "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
         "&none",   "&none",  "&none",  "&none",  "&none",                     "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",            "&none",  "&none",  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans"
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",                                                              "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",                                                              "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",           "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",  "&none",                               "&none",                      "&none",                      "&none",  "&none",  "&none",  "&none",  "&none",  "&none",
+        "&none",  "&none",  "&none",  "&none",  "&none",                     "&none",  "&none",  "&none",                      "&none",  "&none",  "&none",            "&none",  "&none",  "&none",  "&none",  "&none"
     ]
   ]
 }

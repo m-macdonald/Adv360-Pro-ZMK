@@ -49,11 +49,11 @@
 
         layer_NAV {
             bindings = <
-  &none   &none   &none   &none   &none   &none            &none                                                   &none   &none   &none   &none   &none   &none   &none
-  &none   &none   &none   &none   &none   &none            &none                                                   &none   &none   &none   &none   &none   &none   &none
-  &none   &none   &none   &none   &none   &none            &none   &none   &none                   &none   &none   &none   &none   &none   &none   &none   &none   &none
-  &none   &none   &none   &none   &none   &none                            &none                   &none                   &none   &none   &none   &none   &none   &none
-  &none   &none   &none   &none   &none                    &none   &none   &none                   &none   &none   &none           &none   &none   &none   &none   &none
+  &none     &none     &none      &none      &none   &none            &none                                                        &none        &none        &none          &none        &none       &none   &none
+  &none     &none     &none      &none      &none   &none            &none                                                        &none  &kp K_AGAIN  &kp K_PASTE     &kp K_COPY    &kp K_CUT  &kp K_UNDO   &none
+  &none  &kp LGUI  &kp LALT  &kp LCTRL  &kp LSHFT   &none            &none   &none   &none                   &none      &none     &none     &kp CAPS     &kp LEFT       &kp DOWN       &kp UP   &kp RIGHT   &none
+  &none     &none     &none      &none      &none   &none                            &none                   &none                           &kp INS     &kp HOME  &kp PAGE_DOWN  &kp PAGE_UP     &kp END   &none
+  &none     &none     &none      &none      &none                    &none   &none   &none                   &none  &kp ENTER  &kp BSPC                     &none          &none        &none       &none   &none
             >;
         };
 
